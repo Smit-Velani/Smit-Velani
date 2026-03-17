@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Smitkumar Velani</h1>
-<h3 align="center">📊 MS Data Science Student @ Northeastern University (2026–2028) | Data Analyst | ML Enthusiast</h3>
+<h3 align="center">📊 MS Data Science Student @ Northeastern University (2026–2028) | Data Analyst </h3>
 
 <p align="center">
   <a href="https://github.com/Smit-Velani">
