@@ -1,11 +1,20 @@
 <h1 align="center">Hi 👋, I'm Smitkumar Velani</h1>
-<h3 align="center">📊 Data Science Graduate Student | Data Analyst | ML Enthusiast</h3>
+<h3 align="center">📊 MS Data Science Student @ Northeastern University (2026–2028) | Data Analyst | ML Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/Smit-Velani">
     <img src="https://komarev.com/ghpvc/?username=Smit-Velani&label=Profile%20views&color=0e75b6&style=flat" />
   </a>
 </p>
+
+---
+
+## 🚀 About Me
+- 🎓 MS in Data Science @ Northeastern University (Currently in 1st Semester)  
+- 📊 Strong foundation in **Python, SQL, and Data Analysis**  
+- 📈 Experienced in **data cleaning, EDA, visualization, and basic ML**  
+- 🧠 Built real-world projects in **customer analytics, stock market analysis, and computer vision**  
+- 💼 Actively seeking **Summer 2026 Internship / Co-op (Data Analyst / Data Science roles)**  
 
 ---
 
@@ -16,15 +25,6 @@
 - 🎓 **B.E. in Information & Communication Technology**  
   Adani Institute of Infrastructure Engineering (2021 – 2025)  
   📊 CGPA: **8.24/10**
-
----
-
-## 🚀 About Me
-- 📊 Passionate about **Data Analytics, Machine Learning, and Business Insights**
-- 💡 Strong in **Python, SQL, and real-world data problem solving**
-- 📈 Experience in **end-to-end data analysis & dashboard development**
-- 🔍 Interested in **data-driven decision making and scalable systems**
-- 💼 Actively seeking **Internship / Co-op opportunities (Data Analyst / Data Science)**
 
 ---
 
@@ -68,21 +68,20 @@
 
 ### 📌 Data Analyst Intern — Unified Mentor Pvt. Ltd.  
 📅 Feb 2025 – May 2025  
-- Built a **stock market data analysis system** using Python & APIs  
-- Performed data cleaning and preprocessing using Pandas  
-- Applied **time-series analysis** to identify trends  
-- Calculated metrics like **moving averages, returns, volatility**  
-- Visualized financial insights using Matplotlib & Seaborn  
+- Developed a **stock market data analysis system** using Python & APIs  
+- Cleaned and processed large datasets using Pandas  
+- Applied **time-series analysis** to identify market trends  
+- Calculated key financial metrics (moving averages, returns, volatility)  
+- Built visualizations to communicate insights effectively  
 
 ---
 
 ### 📌 Data Analytics Intern — IBM SkillsBuild (CSRBOX)  
 📅 Jun 2024 – Aug 2024  
-- Developed **plant health prediction system** using OpenCV  
-- Performed image preprocessing & feature extraction  
-- Built ML model for disease detection  
-- Improved model accuracy through optimization  
-- Deployed solution as a web application  
+- Built a **plant disease prediction system** using OpenCV  
+- Performed image preprocessing and feature extraction  
+- Developed and optimized a machine learning model  
+- Deployed the solution as a web-based application  
 
 ---
 
@@ -90,24 +89,24 @@
 
 ### 🛒 Customer Shopping Behavior Analysis  
 🔗 https://github.com/Smit-Velani/customer_behavior  
-- End-to-end data analytics project using Python, SQL & Power BI  
-- Performed EDA and customer segmentation  
+- End-to-end analytics using Python, SQL & Power BI  
+- Performed EDA, customer segmentation & trend analysis  
 - Built interactive dashboard for business insights  
 
 ---
 
 ### 📦 Zepto Product Inventory Analysis  
 🔗 https://github.com/Smit-Velani/Zepto-SQL-Data-Analysis-Project  
-- SQL-based project using PostgreSQL  
-- Wrote 10+ queries for pricing & inventory insights  
+- Conducted SQL-based analysis using PostgreSQL  
+- Wrote advanced queries for pricing & inventory insights  
 - Identified high-demand and out-of-stock products  
 
 ---
 
 ## 🏆 Achievements
-- 🏅 ASPIRE Lead Organizer (2024): Managed 150+ volunteers & large-scale event  
+- 🏅 ASPIRE Lead Organizer (2024) — Led 150+ volunteers & managed large-scale event  
 - 🤝 Volunteer — Karmyog NGO (Elderly care support)  
-- ⚽ Sports Achiever: Kabaddi, Sprint (200m), Football  
+- ⚽ Sports Achiever — Kabaddi, 200m Sprint, Football  
 
 ---
 
@@ -120,7 +119,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Smit-Velani&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Smit-Velani&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smit-Velani&layout=compact" />
 </p>
 
@@ -131,9 +130,9 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/smit-velani  
 - 💻 GitHub: https://github.com/Smit-Velani  
 - 📧 Email: velanismitkumar@gmail.com  
-- 📍 Location: Boston, MA  
+- 📍 Location: Boston, MA, USA  
 
 ---
 
 ## ⚡ Fun Fact
-I love transforming raw data into meaningful insights that drive decisions 🚀
+I enjoy turning complex datasets into meaningful insights that drive real-world decisions 🚀
