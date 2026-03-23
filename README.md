@@ -98,13 +98,6 @@
 
 ---
 
-## 🏆 Achievements
-- 🏅 ASPIRE Lead Organizer (2024) — Led 150+ volunteers & managed large-scale event  
-- 🤝 Volunteer — Karmyog NGO (Elderly care support)  
-- ⚽ Sports Achiever — Kabaddi, 200m Sprint, Football  
-
----
-
 ## 📜 Certifications
 - 📜 IBM Data Analytics Internship Certificate  
 - 📜 Unified Mentor Data Analyst Internship Certificate  
@@ -127,7 +120,3 @@
 - 📧 Email: velanismitkumar@gmail.com  
 - 📍 Location: Boston, MA, USA  
 
----
-
-## ⚡ Fun Fact
-I enjoy turning complex datasets into meaningful insights that drive real-world decisions 🚀
