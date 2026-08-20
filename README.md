@@ -1,49 +1,72 @@
-<h1 align="center">Hi, I'm Smitkumar Velani</h1>
+<h1 align="center">Smit Velani</h1>
 <h3 align="center">MS Data Science @ Northeastern University, Boston</h3>
 <p align="center">Causal Inference · LLM Evaluation · MLOps · Seeking Jan 2027 DS Co-op</p>
 
 <p align="center">
+  <a href="https://smit-velani.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/smit-velani"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://smit-velani.github.io"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:velani.sm@northeastern.edu"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Boston%2C%20MA-4285F4?style=flat&logo=google-maps&logoColor=white"/>
 </p>
 
----
-
-I build ML systems and then try to prove they work. Most of what I find interesting sits in the gap between a model producing a number and anyone having reason to trust it — validation harnesses, assumption diagnostics, evaluation of the evaluators.
-
-**MS Data Science, Northeastern University** · GPA 4.0/4.0 · Boston
-**B.E. Information & Communication Technology**, Adani University · CGPA 8.24/10
+<p align="center">
+  <b>Portfolio →</b> <a href="https://smit-velani.github.io">smit-velani.github.io</a>
+</p>
 
 ---
 
-## Featured Work
+I build ML systems and then try to prove they work. Most of what interests me sits in the gap between a model producing a number and anyone having reason to trust it — validation harnesses, assumption diagnostics, and evaluating the evaluators.
+
+---
+
+## Education
+
+**Northeastern University**, Boston, MA — MS Data Science · 2026–2028
+**Adani Institute of Infrastructure Engineering (GTU)** — B.E. Information & Communication Technology · 2021–2025
+
+---
+
+## Experience
+
+**Data Science Intern** — Unified Mentor Pvt. Ltd. · Jan–Apr 2025
+- Owned full-cycle delivery of an equities analytics platform covering ingestion, indicator engine, risk metrics and dashboard, built on Pandas, NumPy and yfinance
+- Engineered 11 technical indicators from scratch (SMA, EMA, Bollinger Bands, RSI, MACD, ATR) using fully vectorised NumPy with no external TA library
+- Computed Sharpe Ratio, Max Drawdown, annualised volatility, skewness and kurtosis for risk-return profiling, surfaced through a 20-chart interactive dashboard
+
+**Data Science Intern** — IBM SkillsBuild (CSRBOX) · Jun–Aug 2024
+- Sole engineer on a crop-disease diagnostic system across 15 disease classes and 16,500+ PlantVillage images
+- Deployed a MobileNetV2 transfer-learning CNN at 89% accuracy via two-phase fine-tuning of the top 50 layers
+- Shipped a Flask web app with drag-and-drop input for real-time inference, backed by an OpenCV pipeline extracting 6 visual features per image
+
+---
+
+## Projects
 
 ### 🔬 [CausalLens](https://github.com/Smit-Velani/causal-lens) · [Live Demo](https://causal-lens-smit.streamlit.app)
-**Causal inference and experimentation platform.** CUPED, DiD, PSM, doubly robust AIPW, Bayesian A/B, uplift modelling, and always-valid sequential inference — each validated against a known injected effect, each shipping its own assumption diagnostic.
+*Causal Inference and Experimentation Platform · Python, Statsmodels, Scikit-Learn, SciPy, Streamlit*
 
-The result I like most: a placebo test measured a +0.45/period pre-trend from pre-treatment data alone and predicted the realised DiD bias of 0.37. Validated externally on the LaLonde benchmark, recovering \$1,637 against a \$1,794 experimental truth from a −\$8,498 naive baseline.
-
-`Python` `Statsmodels` `Scikit-Learn` `SciPy` `Streamlit` · 45 tests · GitHub Actions
+- Architected a causal inference platform implementing CUPED, DiD, PSM, doubly robust AIPW, Bayesian A/B testing and T-Learner uplift, across randomized and observational data
+- Reduced confounding bias from 1.82 (naive) to −0.16 with PSM and −0.05 with AIPW across 30 random seeds, and trimmed outcome variance 47.2% under CUPED without shifting the point estimate
+- Validated on the LaLonde NSW benchmark, recovering 1,637 USD from a −8,498 USD naive baseline against 1,794 USD truth, and 128.4% AUUC on 223K-row Criteo · 45 of 45 pytest
+- Built a DiD placebo test measuring a 0.45 per period pre-trend that predicted the realized 0.37 bias, and a pipeline-refitting bootstrap exposing 58% understated standard error in the PSM interval
 
 ---
 
 ### 🔭 [AgentAudit](https://github.com/Smit-Velani/agent-audit) · [Live Demo](https://agentaudit-scout.streamlit.app)
-**AI agent evaluation harness** built around Scout, a ReAct-style CSV analyst with dual LLM-as-judge validation.
+*AI Agent Evaluation and LLM Safety · Python, LangChain, LangGraph, Groq, Scikit-Learn, Streamlit*
 
-Cohen's κ = 0.774 judge-vs-human agreement (95% CI 0.46–1.00). A deliberately introduced operator swap dropped the pass rate 83% → 50%, caught by regression checks. Red-teaming exposed a hallucination that keyword guardrails could not see, so I built a grounding guardrail that validates entity mentions against the dataset itself.
-
-`Python` `LangChain` `LangGraph` `Groq GPT-OSS` `Streamlit` · 23 tests · GitHub Actions
+- Measured Cohen's kappa 0.774 judge-vs-human agreement (95% CI 0.46 to 1.00, n=15) for an evaluation harness wrapped around Scout, a ReAct-style CSV analyst, validating dual LLM-as-judge graders on a 29-task golden set
+- Caught a silent operator-swap bug through automated regression checks; pass rate fell from 83% to 50% and a red-team sweep cut unsafe responses from 86% to 57% post-guardrail, reproducing exactly after a mid-project model migration
+- Closed the hallucination gap the red team exposed with a grounding guardrail validating entity mentions against the dataset, catching invented categories two keyword filters missed · deployed publicly, 23 of 23 pytest
 
 ---
 
 ### 🧊 [GlassBox ML](https://github.com/Smit-Velani/glassbox-ml)
-**Full-stack AutoML platform.** Upload any CSV; it inspects data quality, flags target leakage, infers the problem type, trains five model families, and writes an AI-generated PDF report.
+*AutoML, MLOps, Full-Stack · Python, FastAPI, React, XGBoost, SHAP, Groq, MLflow*
 
-Selects the winning model by expected business cost rather than raw accuracy — on 284K-row fraud data it chose XGBoost over Logistic Regression despite comparable AUC-ROC, because LR's 0.06 precision was ruinously expensive. AUC-ROC 0.981, AUC-PR 0.848.
-
-`FastAPI` `React` `XGBoost` `SHAP` `LIME` `Groq GPT-OSS` · 14 tests · GitHub Actions
+- Consolidated repetitive ML setup into a full-stack AutoML system that inspects data quality, flags target leakage, infers problem type and trains multiple model families unattended
+- Designed cost-aware model selection around a configurable business cost matrix with a recall-floor guardrail, leakage-free SMOTE cross-validation and adaptive SHAP explainers for tree, linear and kernel architectures
+- Reached AUC-ROC 0.981 and AUC-PR 0.848 on a 284K-row fraud benchmark, compressing training time from 20 to 3 min under dynamic scaling, plus PSI drift detection and 14 pytest tests wired into CI
 
 ---
 
@@ -60,24 +83,17 @@ Selects the winning model by expected business cost rather than raw accuracy —
 
 ---
 
-## Experience
+## Technical Skills
 
-**Data Analyst Intern** — Unified Mentor Pvt. Ltd. · Jan–Apr 2025
-Built an equities analytics platform end to end: 11 indicator and return series from vectorised NumPy with no TA library, risk profiling via Sharpe ratio and max drawdown, surfaced through a 20-chart interactive dashboard.
+**Languages** — Python, SQL, JavaScript
 
-**Data Analytics Intern** — IBM SkillsBuild (CSRBOX) · Jun–Aug 2024
-Sole engineer on a crop-disease diagnostic system. MobileNetV2 transfer learning at 89% accuracy across 15 disease classes and 16,500+ images, served through a Flask app with an OpenCV feature-extraction pipeline.
+**ML & Statistics** — XGBoost, SHAP, AutoML, Causal Inference (CUPED, DiD, PSM, AIPW), A/B Testing, LLM Evaluation, RAG, K-Means, ARIMA, Anomaly Detection
 
----
+**Libraries** — Pandas, NumPy, Scikit-Learn, Statsmodels, PyTorch, TensorFlow, LangChain, FastAPI, Flask, Streamlit
 
-## Stack
+**Data & Infra** — PostgreSQL, MongoDB, MLflow, FAISS, Git, GitHub Actions
 
-**Languages** Python · SQL · JavaScript
-**ML** Scikit-Learn · XGBoost · PyTorch · TensorFlow · SHAP · LIME · Statsmodels
-**LLM** LangChain · LangGraph · FAISS · Groq
-**Data** Pandas · NumPy · MongoDB · PostgreSQL · MLflow
-**Viz** Plotly · D3.js · Matplotlib · Streamlit
-**Infra** FastAPI · Flask · React · Git · GitHub Actions
+**Computer Vision & Viz** — OpenCV, CNN, Transfer Learning, Matplotlib, Seaborn, Plotly
 
 ---
 
