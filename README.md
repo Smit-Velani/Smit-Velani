@@ -1,141 +1,186 @@
-<h1 align="center">Smit Velani</h1>
 
-<h3 align="center">MS Data Science @ Northeastern University, Boston</h3>
+<!-- PREMIUM GITHUB PROFILE — SMIT VELANI -->
 
-<p align="center">
-AI/ML Engineering · Agentic AI · LLM Evaluation · MLOps · Causal Inference
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://smit-velani.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=githubpages&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/smit-velani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:velani.sm@northeastern.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/Boston%2C%20MA-4285F4?style=flat&logo=google-maps&logoColor=white"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:7B2FF7&height=240&section=header&text=SMIT%20VELANI&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=BUILDING%20INTELLIGENT%20SYSTEMS&descSize=18&descAlignY=61&animation=fadeIn"/>
 
-<p align="center">
-  <b>Portfolio →</b>
-  <a href="https://smit-velani.github.io">smit-velani.github.io</a>
-</p>
+<br/>
 
----
+<img src="https://avatars.githubusercontent.com/u/265444405?v=4" width="155" alt="Smit Velani"/>
 
-I build AI and machine learning systems with an emphasis on **evaluation, reliability, and real-world deployment**. I am especially interested in the gap between a model producing an output and having enough evidence to trust that output — evaluation frameworks, failure analysis, data validation, experimentation, monitoring, and reproducibility.
+<br/><br/>
 
-My work spans **agentic AI, LLM evaluation, MLOps, causal inference, computer vision, predictive modeling, and data engineering**. Across internships and independent projects, I have built systems ranging from automated ML pipelines and real-time computer vision applications to tool-using AI agents and statistical experimentation platforms.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineering;Agentic+AI+%26+LLM+Evaluation;Machine+Learning+Operations;Causal+Inference+%26+Experimentation;Turning+Data+Into+Intelligence" alt="Animated introduction"/>
 
-Currently pursuing an **M.S. in Data Science at Northeastern University** and seeking **Spring 2027 AI/ML Engineering, Data Science, Applied AI, and MLOps co-op opportunities in Boston/Cambridge**.
+<br/>
 
----
+<img src="https://img.shields.io/badge/MS_DATA_SCIENCE-NORTHEASTERN_UNIVERSITY-C8102E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LOCATION-BOSTON,_MA-238636?style=for-the-badge"/>
 
-## Education
+<br/><br/>
 
-**Northeastern University**, Boston, MA  
-M.S. Data Science · 2026–2028
+<a href="https://smit-velani.github.io">
+<img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=for-the-badge&logo=googlechrome&logoColor=000000"/>
+</a>
+<a href="https://www.linkedin.com/in/smit-velani">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:velani.sm@northeastern.edu">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**Adani Institute of Infrastructure Engineering (GTU)**, India  
-B.E. Information & Communication Technology · 2021–2025
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Smit-Velani&label=PROFILE+VIEWS&color=7B2FF7&style=for-the-badge"/>
+
+</div>
 
 ---
 
-## Experience
+<div align="center">
 
-**Data Science Intern** — Simform Solutions · Jun–Sep 2025
+### ⚡ WHAT I DO
 
-- Engineered an end-to-end ML pipeline processing **10K+ daily records**, automating data cleaning, validation, feature engineering, aggregation, and anomaly detection
-- Developed and evaluated ML models using feature selection, hyperparameter tuning, and cross-validation, measuring performance with precision, recall, F1, and ROC-AUC
-- Built automated data-quality and model-evaluation workflows to detect invalid inputs and performance deviations while producing reliable outputs for downstream analytics
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-7B2FF7?style=flat-square"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-0969DA?style=flat-square"/>
+<img src="https://img.shields.io/badge/AGENTIC_AI-FF6B6B?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLM_EVALUATION-238636?style=flat-square"/>
+<img src="https://img.shields.io/badge/MLOPS-DAA520?style=flat-square"/>
+<img src="https://img.shields.io/badge/CAUSAL_INFERENCE-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/DATA_ENGINEERING-0EA5E9?style=flat-square"/>
 
-**Data Science Intern** — Unified Mentor Pvt. Ltd. · Jan–Apr 2025
+<br/><br/>
 
-- Built an end-to-end equities analytics platform covering SQL/API ingestion, quantitative computation, risk analysis, and interactive reporting
-- Engineered **11 quantitative indicators and metrics** using vectorized Python and NumPy, including SMA, EMA, Bollinger Bands, RSI, MACD, ATR, Sharpe Ratio, Max Drawdown, and annualized volatility
-- Developed a **20-chart analytics dashboard** for trend, correlation, and risk-return analysis and communicated findings to non-technical stakeholders
+**Building AI systems that are measurable, explainable, and reliable.**
 
-**Data Science Intern** — IBM · Jun–Aug 2024
-
-- Developed an end-to-end computer vision system across **15 classes and 16,500+ images**
-- Fine-tuned MobileNetV2 using transfer learning to achieve **89% classification accuracy**
-- Deployed real-time inference with Python, Flask, and OpenCV, engineering **six quantitative visual features** for interpretable predictions
+</div>
 
 ---
 
-## Projects
+<div align="center">
 
-### 🔬 [CausalLens](https://github.com/Smit-Velani/causal-lens) · [Live Demo](https://causal-lens-smit.streamlit.app)
+### 🛠️ TECHNOLOGY STACK
 
-*Experimentation & Causal Inference · Python, Statsmodels, Scikit-Learn, SciPy, Streamlit*
+**Languages**
 
-- Built a causal inference platform implementing **CUPED, Difference-in-Differences, PSM, doubly robust AIPW, Bayesian A/B testing, and T-Learner uplift modeling**
-- Reduced estimated confounding bias from **1.82 naive → -0.16 PSM → -0.05 AIPW** across 30 random seeds and reduced outcome variance **47.2% with CUPED**
-- Validated on the LaLonde NSW benchmark, recovering **$1,637 vs. $1,794 ground truth** from a **-$8,498 naive estimate**, and achieved **128.4% AUUC** on the 223K-row Criteo uplift dataset
-- Built placebo and bootstrap diagnostics for identifying pre-trend bias and understated uncertainty, backed by **45/45 passing pytest tests**
+<img src="https://skillicons.dev/icons?i=python,r,java,cpp,cs,go,js,ts,bash&perline=9" alt="Programming languages"/>
 
----
+<br/><br/>
 
-### 🔭 [AgentAudit](https://github.com/Smit-Velani/agent-audit) · [Live Demo](https://agentaudit-scout.streamlit.app)
+**AI / ML & Deep Learning**
 
-*Agentic AI & LLM Evaluation · Python, LangChain, LangGraph, Scikit-Learn, Streamlit*
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" alt="AI and ML technologies"/>
 
-- Built a **ReAct-style agent evaluation framework** with multi-step tool calling, trace logging, grounding validation, guardrails, and automated regression testing
-- Measured **0.774 Cohen's kappa** judge-human agreement and built evaluation workflows for systematically analyzing agent accuracy, reliability, safety, and failure modes
-- Reduced unsafe responses from **86% to 57%** through guardrails and implemented grounding validation to detect hallucinated entities missed by keyword-based checks
-- Built repeatable offline evaluation and regression infrastructure backed by **23/23 passing pytest tests**
+<br/><br/>
 
----
+**Backend & Databases**
 
-### 🧊 [GlassBox ML](https://github.com/Smit-Velani/glassbox-ml)
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgres,mysql,mongodb,redis&perline=7" alt="Backend technologies"/>
 
-*Automated ML & MLOps · Python, FastAPI, XGBoost, SHAP, MLflow, Docker*
+<br/><br/>
 
-- Built an end-to-end ML platform spanning **data profiling, leakage detection, automated problem inference, feature processing, model training, evaluation, explainability, and monitoring**
-- Designed cost-aware model selection with configurable business costs, a recall-floor guardrail, leakage-free SMOTE cross-validation, and adaptive SHAP explainability
-- Achieved **0.981 ROC-AUC and 0.848 PR-AUC** on a 284K-row fraud benchmark while reducing training time from **20 to 3 minutes**
-- Added PSI drift detection, MLflow experiment tracking, Docker packaging, and **14-test pytest CI/CD**
+**Cloud, DevOps & MLOps**
 
----
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,git,linux&perline=7" alt="Cloud and DevOps"/>
 
-## Also Built
+<br/><br/>
 
-| Project | What it does |
-|---|---|
-| [Global Economic Intelligence Dashboard](https://github.com/Smit-Velani/Global-Economic-Intelligence-Dashboard) | Real-time economic intelligence across 190+ countries using ARIMA forecasting, K-Means clustering, Isolation Forest anomaly detection, sentiment analysis, WebSockets, and D3.js |
-| [DailyBrief AI](https://github.com/Smit-Velani/dailybrief-ai) | Multi-stage AI workflow integrating Gmail and Calendar data to generate personalized daily briefings |
-| [Multi-Agent Atari Boxing DQN](https://github.com/Smit-Velani/Multi-Agent-Atari-Boxing-DQN) | Two reinforcement-learning agents trained from raw visual observations using CNNs, frame stacking, and experience replay |
-| [Loan Default Prediction](https://github.com/Smit-Velani/Loan-Default-Prediction-MLflow) | ML experimentation across 32,581 credit records with four tracked models and XGBoost reaching 0.947 ROC-AUC |
-| [RAG PDF Chatbot](https://github.com/Smit-Velani/RAG-PDF-Chatbot) | Retrieval-augmented PDF question answering using FAISS with grounded response behavior |
-| [DataPulse Dashboard](https://github.com/Smit-Velani/datapulse-dashboard) | Interactive analytics dashboard covering 11,900+ records across three domains with seven D3.js visualization types |
+**AI Frameworks & Data Tools**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SHAP-6D28D9?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## Technical Skills
+<div align="center">
 
-**Languages** — Python, SQL, R, JavaScript, TypeScript, C++, Java, C#, Go, Bash
+### 📊 GITHUB ANALYTICS
 
-**AI & Machine Learning** — Scikit-Learn, XGBoost, PyTorch, TensorFlow, Keras, Deep Learning, CNNs, Transfer Learning, Feature Engineering, Anomaly Detection
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Smit-Velani&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github" alt="GitHub stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Smit-Velani&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
 
-**Agentic AI & LLM Systems** — LLMs, AI Agents, Agentic AI, RAG, LangChain, LangGraph, FAISS, Tool Calling, Tool Execution, Guardrails, LLM Evaluation
+<br/>
 
-**Statistics & Experimentation** — Causal Inference, CUPED, DiD, PSM, AIPW, A/B Testing, Bayesian Inference, Hypothesis Testing, Time Series, Forecasting, Statistical Modeling
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smit-Velani&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Most used languages"/>
 
-**Data Engineering & Analytics** — Pandas, NumPy, SciPy, Statsmodels, Spark, PySpark, Databricks, PostgreSQL, MySQL, MongoDB, Excel, Power BI
+<br/><br/>
 
-**MLOps & Engineering** — MLflow, SHAP, FastAPI, Flask, REST APIs, AWS, Docker, Kubernetes, Terraform, Redis, GitHub Actions, CI/CD, pytest, Git, Linux
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Smit-Velani&bg_color=0d1117&color=58a6ff&line=7b2ff7&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph"/>
 
-**Visualization** — Matplotlib, Seaborn, Plotly, D3.js
+</div>
 
 ---
 
-<p align="center">
-  <b>Open to Spring 2027 Co-op opportunities in AI/ML Engineering, Data Science, Applied AI, Agentic AI, and MLOps</b>
-</p>
+<div align="center">
 
-<p align="center">
-  Boston / Cambridge, MA
-</p>
+### 🎓 EDUCATION
+
+<img src="https://img.shields.io/badge/NORTHEASTERN_UNIVERSITY-MS_DATA_SCIENCE-C8102E?style=for-the-badge"/>
+
+**Boston, Massachusetts · 2026–2028**
+
+<br/>
+
+<img src="https://img.shields.io/badge/ADANI_INSTITUTE-B.E._INFORMATION_%26_COMMUNICATION_TECHNOLOGY-2563EB?style=for-the-badge"/>
+
+**India · 2021–2025**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 EXPERIENCE
+
+<img src="https://img.shields.io/badge/SIMFORM_SOLUTIONS-DATA_SCIENCE_INTERN-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/UNIFIED_MENTOR-DATA_SCIENCE_INTERN-7B2FF7?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/IBM-DATA_SCIENCE_INTERN-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 CURRENTLY EXPLORING
+
+<img src="https://img.shields.io/badge/AI_AGENT_RELIABILITY-7B2FF7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM_EVALUATION-0969DA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EXPLAINABLE_AI-238636?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CAUSAL_ML-DAA520?style=for-the-badge"/>
+
+<br/><br/>
+
+### 🤝 LET'S CONNECT
+
+<img src="https://img.shields.io/badge/OPEN_TO_SPRING_2027_CO--OP-238636?style=for-the-badge"/>
+
+<br/><br/>
+
+**AI/ML Engineering · Applied AI · Data Science · MLOps**
+
+**Boston / Cambridge, MA**
+
+<br/>
+
+<a href="https://smit-velani.github.io">
+<img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-7B2FF7?style=for-the-badge&logo=githubpages&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:1F6FEB,100:0D1117&height=120&section=footer"/>
+
+</div>
